@@ -8,4 +8,4 @@
 
 ## Interface
 
-<img src='examples/double-torus-pic.png'>
+<img src='https://raw.githubusercontent.com/Dragonglass101/Reeb-Graph-Visualization/main/examples/double-torus.png'>
