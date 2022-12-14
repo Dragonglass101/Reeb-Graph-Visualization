@@ -8,4 +8,4 @@
 
 ## Interface
 
-<img src='examples/double-torus-pic.jpg'>
+<img src='examples/double-torus-pic.png'>
