@@ -5,3 +5,7 @@
 1.  `npm install` it will install all your dependencies
 
 2.  `npm run dev` it will start the development environment
+
+## Interface
+
+<img src='examples/double-torus-pic.jpg'>
